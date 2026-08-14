@@ -1,0 +1,9 @@
+build/
+!.vscode/*
+.cmake/
+.pico-sdk/
+WIZnet-PICO-C/
+current.c
+*.bin
+*.elf
+*.uf2
